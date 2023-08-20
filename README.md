@@ -1,4 +1,4 @@
-roject Title: Marketing Data Analysis
+Project Title: Marketing Data Analysis
 
 Data Details:
 
@@ -15,4 +15,4 @@ Objective 2: Efficient Customer Outreach Strategy
 Evaluating diverse outreach methods for engaging customers.
 Utilizing data-driven insights to tailor communication approaches.
 Identifying the most effective outreach strategies across various demographic segments.
-Enhancing customer engagement by aligning outreach methods with demographic preferences
+Enhancing customer engagement by aligning outreach methods with demographic preferences.
